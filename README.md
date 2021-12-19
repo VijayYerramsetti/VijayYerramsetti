@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VijayYerramsetti
-- 👀 I’m interested in 
+- 👀 I’m interested in Data Science,Coding and Travelling.
 - 🌱 I’m currently learning Python,Machine learning,Tableau.
-- 💞️ I’m looking to collaborate on Python and SQl
+- 💞️ I’m looking to collaborate on Python and SQl.
 - 📫 You can reach me on linkedin(www.linkedin.com/in/vijay-yerramsetti)
 
 <!---
